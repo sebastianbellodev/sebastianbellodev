@@ -1,6 +1,6 @@
 ### Information :newspaper:
 
-- 🌱 I’m currently learning React
+🌱 I’m currently learning React
 
 ### Skills :keyboard:
 
