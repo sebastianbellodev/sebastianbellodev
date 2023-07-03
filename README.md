@@ -4,7 +4,7 @@ I'm a software engineering student with a strong enthusiasm for problem-solving 
 ## 🌱 Learning
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,django,astro&perline=14" />
+  <img src="https://skillicons.dev/icons?i=react,django,astro,kubernetes&perline=5" />
 </a>
 
 ## 🚀 Skills
