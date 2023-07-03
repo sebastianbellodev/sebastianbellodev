@@ -4,13 +4,13 @@ I'm a software engineering student with a strong enthusiasm for problem-solving 
 ## 🌱 Learning
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,django,astro,kubernetes&perline=5" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,django,astro,kubernetes,mongodb,php,laravel,vue,tailwind&perline=5" />
 </a>
 
 ## 🚀 Skills
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cs,cpp,mysql,mongodb,docker,azure,git,figma,vscode,visualstudio,androidstudio&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,c,cs,cpp,java,postman,mysql,docker,azure,git,figma,vscode,visualstudio,androidstudio&perline=5" />
 </a>
 
 ## ⌨️ Stats
