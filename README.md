@@ -13,6 +13,6 @@
 ## ⌨️ Stats
 
 <p align="center">
-    <img alt="commits" width="400px" src="https://github-readme-stats.vercel.app/api?username=sebasbello&count_private=true&show_icons=true&custom_title=GitHub&theme=highcontrast&layout=compact&hide_border=true&rank_icon=github" /> <br>
-    <img alt="languages" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasbello&count_private=true&custom_title=Stack&theme=highcontrast&layout=pie&border_radius=8&hide_border=true" />
+    <img alt="commits" width="400px" src="https://github-readme-stats.vercel.app/api?username=sebasbello&count_private=true&show_icons=true&custom_title=GitHub&theme=vision-friendly-dark&layout=compact&hide_border=true&rank_icon=github" /> <br>
+    <img alt="languages" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasbello&count_private=true&custom_title=Stack&theme=chartreuse-dark&layout=normal&border_radius=8&hide_border=true&hide_title=true" />
 </p>
