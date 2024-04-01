@@ -1,2 +1,2 @@
-## 🚀 Welcome to my code space!
-I'm a software engineering student with a strong enthusiasm for continuous delivery and processes automation. I'm currently researching about microservices testing for my dissertation work. My interests are software architecture, DevOps practices, and web development
+## 🚀 Welcome to my coding space!
+I'm pursuing a degree in software engineering and working on my paper on microservices testing. I'm getting started with React and Tailwind CSS, but I'm also planning to learn Astro and Vue.js. My interests are Web Development, DevOps, Docker, Data Structures and AI (especially coding with Python). 
